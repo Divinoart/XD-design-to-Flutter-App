@@ -1,5 +1,12 @@
 <<<<<<< HEAD
 # xdsampleapp
+A sample app that shows you how you can convert you UI design in adobe XD to a full working flutter App
+
+read article on steps in medium
+
+https://medium.com/@anakor.d.13/how-you-can-convert-your-adobe-xd-ui-design-to-a-full-working-flutter-app-without-coding-8d4ea3dfcf9e
+
+https://medium.com/@anakor.d.13/how-you-can-convert-your-adobe-xd-ui-design-to-a-full-working-flutter-app-without-coding-part-2-682d3edee113?sk=22fbc637976eb7b2c080657eab29e4b3
 
 A new Flutter application.
 
