@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # xdsampleapp
 
 A new Flutter application.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# XD-design-to-Flutter-App
+A sample app that shows you how you can convert you UI design in adobe XD to a full working flutter App
+>>>>>>> e9c4ef9eb7f5fee2c3a0a424783a7c9cc9802788
